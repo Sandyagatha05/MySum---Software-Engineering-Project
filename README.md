@@ -1,7 +1,3 @@
-# MySUM Android App
-
-A modern Android application built with Kotlin and Gradle. The project leverages AndroidX and Jetpack components and is prepared for Firebase via `google-services.json`.
-
 ### Overview MySum - Storage Management App
 An Android-based storage management application for organization secretariats. Users can view available items, their quantities, borrow and return items — all within one app. Data is stored and synchronized using Firebase.
 
