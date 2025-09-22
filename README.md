@@ -1,5 +1,5 @@
 ### Overview MySum - Storage Management App
-An Android-based storage management application for organization secretariats. Users can view available items, their quantities, borrow and return items — all within one app. Data is stored and synchronized using Firebase.
+An Android-based storage management application for organization secretariats. Users can view available items, their quantities, borrow and return items, all within one app. Data is stored and synchronized using Firebase.
 
 ### 🚀 Features
 - **Storage List**: Displays all available items along with their quantities.
